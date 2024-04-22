@@ -1,6 +1,8 @@
 # Symmetric-File-Encryptor-Decryptor
 
 > use this code by first converting it into an executable file and running it as an application to avoid others from accessing the source code
+>
+> any file type can be encrypted and will be encrypted into a '.bin' format
 
 # To convert this file into an executable
 1. install PyInstaller
